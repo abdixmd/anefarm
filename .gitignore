@@ -1,0 +1,20 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+
+# Environment and local settings
+.env
+.env.local
+
+# Logs and databases
+*.log
